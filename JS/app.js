@@ -1,4 +1,4 @@
-import { portada } from './PAGES/portada.js';
+import { portada } from 'PAGES/portada.js';
 import { page1 } from './PAGES/page1.js';
 import { page2 } from './PAGES/page2.js';
 import { page3 } from './PAGES/page3.js';
