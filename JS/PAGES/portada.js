@@ -5,11 +5,11 @@ export const portada = {
   render: function() {
     return `
       <div class="cover-page">
-        <img src="img/bubble_cluster.png" alt="Burbujas" class="cover-bubble-cluster">
-        <img src="img/hero_boy.png" alt="Niño" class="cover-hero">
-        <img src="img/water_drop.png" alt="Gota" class="cover-water-drop">
-        <img src="img/soap_bar.png" alt="Jabón" class="cover-soap-bar">
-        <img src="img/brush_cleaner.png" alt="Cepillo" class="cover-brush">
+        <img src="IMG/bubble_cluster.png" alt="Burbujas" class="cover-bubble-cluster">
+        <img src="IMG/hero_boy.png" alt="Niño" class="cover-hero">
+        <img src="IMG/water_drop.png" alt="Gota" class="cover-water-drop">
+        <img src="IMG/soap_bar.png" alt="Jabón" class="cover-soap-bar">
+        <img src="IMG/brush_cleaner.png" alt="Cepillo" class="cover-brush">
 
         <div class="cover-box" onclick="triggerPageAction(0)">
           <div class="cover-box-icon-bg">
