@@ -5,9 +5,9 @@ export const page1 = {
 
   render: function() {
     return `
-      <div class="story-page page1-container" style="background-image: url('img/fondo1.png'); background-size: cover; background-position: center; background-repeat: no-repeat;">
+      <div class="story-page page1-container" style="background-image: url('IMG/fondo1.png'); background-size: cover; background-position: center; background-repeat: no-repeat;">
         <!-- Personajes PNG más grandes y animados -->
-        <img src="img/niños_arena.png" alt="Niños jugando en la arena" class="page1-kids-sand">
+        <img src="IMG/niños_arena.png" alt="Niños jugando en la arena" class="page1-kids-sand">
 
         <!-- Tarjeta de texto acomodada a la derecha -->
         <div class="story-card">
