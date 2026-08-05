@@ -1,24 +1,24 @@
 import { portada } from 'PAGES/portada.js';
-import { page1 } from './PAGES/page1.js';
-import { page2 } from './PAGES/page2.js';
-import { page3 } from './PAGES/page3.js';
-import { page4 } from './PAGES/page4.js';
-import { page5 } from './PAGES/page5.js';
-import { page6 } from './PAGES/page6.js';
-import { page7 } from './PAGES/page7.js';
-import { page8 } from './PAGES/page8.js';
-import { page9 } from './PAGES/page9.js';
-import { page10 } from './PAGES/page10.js';
-import { page11 } from './PAGES/page11.js';
-import { page12 } from './PAGES/page12.js';
-import { page13 } from './PAGES/page13.js';
-import { page14 } from './PAGES/page14.js';
-import { page15 } from './PAGES/page15.js';
-import { page16 } from './PAGES/page16.js';
-import { page17 } from './PAGES/page17.js';
-import { page18 } from './PAGES/page18.js';
-import { page19 } from './PAGES/page19.js';
-import { page20 } from './PAGES/page20.js';
+import { page1 } from 'PAGES/page1.js';
+import { page2 } from 'PAGES/page2.js';
+import { page3 } from 'PAGES/page3.js';
+import { page4 } from 'PAGES/page4.js';
+import { page5 } from 'PAGES/page5.js';
+import { page6 } from 'PAGES/page6.js';
+import { page7 } from 'PAGES/page7.js';
+import { page8 } from 'PAGES/page8.js';
+import { page9 } from 'PAGES/page9.js';
+import { page10 } from 'PAGES/page10.js';
+import { page11 } from 'PAGES/page11.js';
+import { page12 } from 'PAGES/page12.js';
+import { page13 } from 'PAGES/page13.js';
+import { page14 } from 'PAGES/page14.js';
+import { page15 } from 'PAGES/page15.js';
+import { page16 } from 'PAGES/page16.js';
+import { page17 } from 'PAGES/page17.js';
+import { page18 } from 'PAGES/page18.js';
+import { page19 } from 'PAGES/page19.js';
+import { page20 } from 'PAGES/page20.js';
 
 class BookApp {
   constructor() {
